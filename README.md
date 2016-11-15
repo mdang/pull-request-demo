@@ -1,14 +1,12 @@
-ls
 ## pull-request-demo
 
 ## Some content
 
 List of random stuff
 
-<<<<<<< HEAD
-- COWs
-- COws
-- More COWS
+- salad
+- sandwiches
+- turkey
 - TACOS
 - BURRITOS
 - PIZZA
