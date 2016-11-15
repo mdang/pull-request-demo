@@ -7,3 +7,6 @@ List of random stuff
 - dogs
 - cats
 - ducks
+- rabbits
+- unicorns
+- humans
