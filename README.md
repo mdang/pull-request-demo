@@ -4,6 +4,6 @@
 
 List of random stuff
 
-- dogs
-- cats
-- ducks
+- dogs are cool
+- cats are alright
+- ducks are scary
