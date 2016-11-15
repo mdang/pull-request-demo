@@ -2,13 +2,11 @@
 
 ## Some content
 
-### Hello, it's me...
-
 List of random stuff
 
-- dogs
-- cats
-- ducks
+- hello
+- it's
+- me
 - TACOS
 - BURRITOS
 - PIZZA
