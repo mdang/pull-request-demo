@@ -5,7 +5,6 @@
 List of random stuff
 
 - dogs
-- cats
 - ducks
 - shoes
 - buckets
@@ -14,3 +13,9 @@ List of random stuff
 - TACOS
 - BURRITOS
 - PIZZA
+- shoes
+- feet
+- hats
+- head
+- pants
+- legs
