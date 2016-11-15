@@ -8,6 +8,9 @@ List of random stuff
 - cheese
 - myrepo
 - goats
+- salad
+- sandwiches
+- turkey
 - TACOS
 - BURRITOS
 - PIZZA
