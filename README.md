@@ -4,9 +4,9 @@
 
 List of random stuff
 
-- dogs
-- cats
-- ducks
+- ants
+- cheese
+- myrepo
 - goats
 - TACOS
 - BURRITOS
