@@ -4,6 +4,6 @@
 
 List of random stuff
 
-- dogs
-- cats
-- ducks
+- dogs/puppies
+- cats/kittens
+- ducks/ducklings
