@@ -8,4 +8,6 @@ List of random stuff
 - cats
 - ducks
 - goats
-- 
+- TACOS
+- BURRITOS
+- PIZZA
