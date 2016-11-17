@@ -7,6 +7,6 @@ List of random stuff
 - salad
 - sandwiches
 - turkey
-- TACOS
-- BURRITOS
-- PIZZA
+- kangaroos
+
+
